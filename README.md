@@ -1,4 +1,7 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F7FF,100:8A2BE2&height=3"/>
+</p>
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00F7FF&height=250&section=header&text=AKSHANTH%20N&fontSize=50&fontColor=00F7FF&animation=fadeIn&desc=AI%20%2B%20Web%20Developer&descAlignY=60"/>
 </p>
 
