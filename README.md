@@ -49,4 +49,5 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Akshanth07/Akshanth07/output/github-contribution-grid-snake-dark.svg)
+
+![snake gif](https://raw.githubusercontent.com/Akshanth07/Akshanth07/output/snake.svg)
