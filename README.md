@@ -147,21 +147,29 @@ Akshanth().greet()
 ## 🚀 Featured Projects
 
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/Akshanth07/Ai-internship-readiness-score-engine">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Akshanth07&repo=Ai-internship-readiness-score-engine&theme=tokyonight&hide_border=true"/>
-</a>
+### 🧠 AI Internship Readiness Score Engine
 
-<a href="https://github.com/Akshanth07/food-court-management">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Akshanth07&repo=food-court-management&theme=tokyonight&hide_border=true"/>
-</a>
+AI-powered system that analyzes GitHub + resume to predict internship readiness
+👉 [View Project](https://github.com/Akshanth07/Ai-internship-readiness-score-engine)
 
-<a href="https://github.com/Akshanth07/portfolio">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Akshanth07&repo=portfolio&theme=tokyonight&hide_border=true"/>
-</a>
+---
 
-</p>
+### 🍔 Food Court Management System
+
+Real-time full-stack system with ordering, admin analytics & vendor flow
+👉 [View Project](https://github.com/Akshanth07/food-court-management)
+
+---
+
+### 🌐 Portfolio Website
+
+Personal portfolio showcasing projects and skills
+👉 [View Project](https://github.com/Akshanth07/portfolio)
+
+</div>
+
 
 
 ---
