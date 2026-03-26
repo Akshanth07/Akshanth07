@@ -30,9 +30,10 @@
 
 ## 🚀 Projects
 
+
 <p align="center">
-  <a href="https://github.com/Akshanth07/YOUR_PROJECT1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshanth07&repo=YOUR_PROJECT1&theme=tokyonight" />
+  <a href="https://github.com/Akshanth07/Alzheimers-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshanth07&repo=Alzheimers-Detection&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
@@ -41,7 +42,7 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshanth07&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshanth07&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
