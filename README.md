@@ -148,15 +148,20 @@ Akshanth().greet()
 
 <div align="center">
 
-<!-- Replace YOUR_REPO1 / YOUR_REPO2 with actual repo names -->
-<a href="https://github.com/Akshanth07/YOUR_REPO1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshanth07&repo=YOUR_REPO1&theme=tokyonight&hide_border=true&bg_color=060c18&title_color=00F7FF&icon_color=8A2BE2&text_color=6aaad0" />
+<a href="https://github.com/Akshanth07/Ai-internship-readiness-score-engine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshanth07&repo=Ai-internship-readiness-score-engine&theme=tokyonight&hide_border=true&bg_color=060c18&title_color=00F7FF&icon_color=8A2BE2&text_color=6aaad0" />
 </a>
-<a href="https://github.com/Akshanth07/YOUR_REPO2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshanth07&repo=YOUR_REPO2&theme=tokyonight&hide_border=true&bg_color=060c18&title_color=00F7FF&icon_color=8A2BE2&text_color=6aaad0" />
+
+<a href="https://github.com/Akshanth07/food-court-management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshanth07&repo=food-court-management&theme=tokyonight&hide_border=true&bg_color=060c18&title_color=00F7FF&icon_color=8A2BE2&text_color=6aaad0" />
+</a>
+
+<a href="https://github.com/Akshanth07/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshanth07&repo=portfolio&theme=tokyonight&hide_border=true&bg_color=060c18&title_color=00F7FF&icon_color=8A2BE2&text_color=6aaad0" />
 </a>
 
 </div>
+
 
 ---
 
