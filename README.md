@@ -22,6 +22,16 @@
 🎯 Goal: AI Engineer + Full Stack Developer
 
 ---
+---
+
+## 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshanth07&theme=tokyo-night&hide_border=true&area=true&line=00F7FF&point=FFFFFF"/>
+</p>
+
+---
+
 
 ## ⚙️ Tech Stack
 
