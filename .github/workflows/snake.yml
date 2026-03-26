@@ -1,10 +1,10 @@
 name: snake
 
 on:
-workflow_dispatch:
+ workflow_dispatch:
 
 permissions:
-contents: write
+ contents: write
 
 jobs:
  snake:
