@@ -8,13 +8,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=AI%2FML+%E2%86%92+Backend+%E2%86%92+Databases+%E2%86%92+IoT+%E2%86%92+Full-Stack;Engineering+scalable+APIs+%26+real-world+intelligence;Connecting+predictive+models+with+physical+systems)](https://github.com/Akshanth07)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+%E2%86%92+Backend+%E2%86%92+Databases+%E2%86%92+IoT+%E2%86%92+Full-Stack;Engineering+scalable+APIs+%26+real-world+intelligence;Connecting+predictive+models+with+physical+systems)](https://github.com/Akshanth07)
 
 <br/>
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Akshanth07-00F7FF?style=for-the-badge&logo=github&logoColor=0d1117&labelColor=0d1117)](https://github.com/Akshanth07)
-[![Email](https://img.shields.io/badge/Email-Akshanth2007%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117)](mailto:Akshanth2007@gmail.com)
-[![Focus](https://img.shields.io/badge/Focus-Intelligent_Systems-8A2BE2?style=for-the-badge&labelColor=0d1117)](https://github.com/Akshanth07)
+[![GitHub](https://img.shields.io/badge/GitHub-Akshanth07-21262d?style=flat-square&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/Akshanth07)
+[![Email](https://img.shields.io/badge/Email-Akshanth2007%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=c9d1d9&labelColor=161b22)](mailto:Akshanth2007@gmail.com)
+[![Focus](https://img.shields.io/badge/Focus-Intelligent_Systems-21262d?style=flat-square&logoColor=58a6ff&labelColor=161b22)](https://github.com/Akshanth07)
 
 </div>
 
@@ -221,12 +221,12 @@ Web / Mobile Clients ──> FastAPI Backend ──> Supabase PostgreSQL (RLS) �
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshanth07&theme=tokyo-night&hide_border=true&area=true&area_color=00F7FF&line=00F7FF&point=ffffff&bg_color=0d1117&color=00F7FF&custom_title=Contribution+Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshanth07&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&custom_title=Contribution+Graph" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshanth07&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00F7FF&hide_border=false&title_color=00F7FF&icon_color=00F7FF&text_color=c0caf5" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshanth07&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00F7FF&hide_border=false&title_color=00F7FF&text_color=c0caf5" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akshanth07&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&hide_border=false&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshanth07&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&hide_border=false&title_color=58a6ff&text_color=c9d1d9" width="48%"/>
 
 </div>
 
@@ -236,7 +236,7 @@ Web / Mobile Clients ──> FastAPI Backend ──> Supabase PostgreSQL (RLS) �
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email-Akshanth2007%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117)](mailto:Akshanth2007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Akshanth07-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Akshanth07)
+[![Gmail](https://img.shields.io/badge/Email-Akshanth2007%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=c9d1d9&labelColor=161b22)](mailto:Akshanth2007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Akshanth07-21262d?style=flat-square&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/Akshanth07)
 
 </div>
