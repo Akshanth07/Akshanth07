@@ -1,239 +1,227 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:060c18,50:0d2137,100:00F7FF&height=300&section=header&text=AKSHANTH%20N&fontSize=65&fontColor=00F7FF&animation=fadeIn&fontAlignY=42&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Cyberpunk%20Coder%20%E2%9A%A1&descAlignY=62&descSize=15&descColor=4a8ab0" width="100%"/>
+# AKSHANTH N
+
+**AI/ML • Backend Engineering • IoT**
+
+*Building intelligent systems that connect software with the real world.*
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI%2FML+%E2%86%92+Backend+%E2%86%92+Databases+%E2%86%92+IoT+%E2%86%92+Full-Stack;Engineering+scalable+APIs+%26+real-world+intelligence;Building+complete+end-to-end+software+systems)](https://github.com/Akshanth07)
+
+<br/>
+
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Akshanth07-00F7FF?style=flat-square&logo=github&logoColor=0d1117&labelColor=0d1117)](https://github.com/Akshanth07)
+[![Email](https://img.shields.io/badge/Email-Akshanth2007%40gmail.com-00F7FF?style=flat-square&logo=gmail&logoColor=00F7FF&labelColor=0d1117)](mailto:Akshanth2007@gmail.com)
+[![Status](https://img.shields.io/badge/Focus-Building_Intelligent_Systems-8A2BE2?style=flat-square&labelColor=0d1117)](https://github.com/Akshanth07)
 
 </div>
 
 ---
 
-<div align="center">
+## 📌 About Me
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&width=700&lines=Initializing+AI+systems...;%24+python+build_the_future.py;Full+Stack+in+the+streets%2C+ML+in+the+sheets+%F0%9F%A7%A0;%24+git+commit+-m+%22another+banger%22;Available+for+collaboration+%F0%9F%9A%80;Building+what+others+only+imagine..."/>
-
-<br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Akshanth07&label=PROFILE+VIEWS&color=00F7FF&style=flat-square)](https://github.com/Akshanth07)
-![Status](https://img.shields.io/badge/STATUS-ONLINE-00F7FF?style=flat-square&labelColor=060c18)
-![Mode](https://img.shields.io/badge/MODE-BUILDING-8A2BE2?style=flat-square&labelColor=060c18)
-![Open Source](https://img.shields.io/badge/OPEN_TO-COLLABORATE-00e676?style=flat-square&labelColor=060c18)
-
-</div>
+- 🧠 **AI & System Integration**: Focused on engineering intelligent software that connects machine learning models with robust backend services and real-world hardware.
+- ⚙️ **Backend & Databases**: Experience building RESTful microservices, CRUD engines, and relational schema designs using **Python**, **Java / Spring Boot**, **FastAPI**, and **PostgreSQL**.
+- 🔌 **IoT & Hardware**: Passionate about bridging physical sensors with cloud/edge backends to capture and analyze live telemetry.
+- 🎯 **Development Goal**: Constructing complete, reliable, end-to-end systems rather than isolated models or standalone interfaces.
 
 ---
 
-## `whoami.py`
+## 🌐 Engineering Philosophy
 
-```python
-class Akshanth:
-    name       = "Akshanth N"
-    location   = "India 🇮🇳"
-    roles      = ["AI Developer", "Full Stack Learner", "Open Source Contributor"]
-    languages  = ["Python", "JavaScript", "Java", "C"]
-    stack      = ["React", "Node.js", "TensorFlow", "MySQL", "Git"]
-    focus      = "Building AI-powered real-world applications"
-    goal       = "AI Engineer who can own the full product lifecycle"
-    available  = True   # open to collaborate
-
-    def current_mission(self):
-        return [
-            "Shipping intelligent full-stack products 🚀",
-            "Deepening ML/DL knowledge daily 🧠",
-            "LeetCode grind for system design mastery ⚡",
-            "Contributing to open source 🌐",
-        ]
-
-    def greet(self):
-        print("Code the future before it arrives.")
-
-Akshanth().greet()
-# >>> Code the future before it arrives.
-```
-
----
-
-## ⚡ About Me
-
-<img align="right" src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1000&color=00F7FF&center=false&vCenter=true&width=320&lines=Learning+every+single+day...;Building+things+that+matter...;AI+%2B+Web+%3D+Future+%F0%9F%94%AE;Stay+hungry+for+knowledge+%E2%9A%A1" />
-
-- 🧠 Deep-diving into **Machine Learning**, **LLMs**, and **Computer Vision**
-- 🌐 Building production-ready apps with **React + Node.js**
-- 🔁 Learning in public | Shipping real projects
-- 🎯 End goal: **AI Engineer** with full product ownership
-- 💬 Ask me about **Python**, **AI projects**, or **web architecture**
-- 📫 Reach me: [Akshanth2007@gmail.com](mailto:Akshanth2007@gmail.com)
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### ◈ Languages
-![Python](https://img.shields.io/badge/Python-%2300f7ff.svg?style=for-the-badge&logo=python&logoColor=060c18)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=060c18)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300f7ff.svg?style=for-the-badge&logo=c&logoColor=060c18)
-
-### ◈ Frontend & Backend
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=060c18)
-![Node.js](https://img.shields.io/badge/Node.js-%233C873A.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### ◈ AI / ML Stack
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### ◈ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23ffffff.svg?style=for-the-badge&logo=github&logoColor=060c18)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 🧬 Skill Radar
+### *From Intelligence to Impact*
 
 ```
-╔══════════════════════════════════════════════════╗
-║  SKILL_MATRIX :: AKSHANTH_N                      ║
-╠══════════════════════════════════════════════════╣
-║  Python            ████████████████████░  92%   ║
-║  HTML / CSS        ███████████████████░░  88%   ║
-║  Web Dev (React)   ████████████████░░░░░  78%   ║
-║  Node.js           ███████████████░░░░░░  74%   ║
-║  Java              ██████████████░░░░░░░  70%   ║
-║  MySQL             █████████████░░░░░░░░  66%   ║
-║  ML / AI           ████████████░░░░░░░░░  65%   ║
-║  System Design     █████████░░░░░░░░░░░░  48% ↑ ║
-╚══════════════════════════════════════════════════╝
+┌──────────┐    ┌──────────┐    ┌──────────────┐    ┌──────────┐    ┌──────────┐    ┌──────────────────┐
+│  Problem │ ──>│   Data   │ ──>│ Intelligence │ ──>│ Backend  │ ──>│  System  │ ──>│ Real-World Impact│
+└──────────┘    └──────────┘    └──────────────┘    └──────────┘    └──────────┘    └──────────────────┘
 ```
+
+> *"Software becomes truly powerful when predictive data models interface seamlessly with reliable backend infrastructure to deliver real-world utility."*
 
 ---
 
-## 🚀 Mission Board
+## 🛠️ Technical Stack
 
-```
-┌─────────────────────────────────────────────────────────┐
-│  AKSHANTH N  //  ACTIVE OBJECTIVES                      │
-├──────────────────────────────────┬──────────────────────┤
-│  OBJECTIVE                       │  STATUS              │
-├──────────────────────────────────┼──────────────────────┤
-│  AI-Powered Full Stack Apps      │  🟢  ACTIVE          │
-│  Machine Learning & Deep Learn.  │  🟢  ACTIVE          │
-│  Open Source Contributions       │  🔵  ONGOING         │
-│  Production AI API Deployments   │  🟡  NEXT            │
-│  System Design Mastery           │  🟡  NEXT            │
-│  Kaggle Competitions             │  ⚪  PLANNED         │
-└──────────────────────────────────┴──────────────────────┘
-```
+### Core Languages & Priorities
+![Python](https://img.shields.io/badge/Python-00F7FF?style=flat-square&logo=python&logoColor=0d1117&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&labelColor=0d1117)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117)
 
----
+### Backend Architecture & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0d1117)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=0d1117)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00F7FF?style=flat-square&logo=postman&logoColor=0d1117&labelColor=0d1117)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0d1117)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0d1117)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white&labelColor=0d1117)
+![H2](https://img.shields.io/badge/H2-00599C?style=flat-square&labelColor=0d1117)
 
-## 🌌 Contribution Activity
+### AI, Machine Learning & Vision
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=0d1117)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white&labelColor=0d1117)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white&labelColor=0d1117)
+![YOLO](https://img.shields.io/badge/YOLO-00F7FF?style=flat-square&labelColor=0d1117)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-0068B5?style=flat-square&logo=intel&logoColor=white&labelColor=0d1117)
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-8A2BE2?style=flat-square&labelColor=0d1117)
 
-<div align="center">
+### IoT & Embedded Hardware
+![Arduino Uno](https://img.shields.io/badge/Arduino_Uno-00979D?style=flat-square&logo=arduino&logoColor=white&labelColor=0d1117)
+![ESP8266 / ESP--01](https://img.shields.io/badge/ESP8266-000000?style=flat-square&logo=espressif&logoColor=white&labelColor=0d1117)
+![Sensor Integration](https://img.shields.io/badge/Sensor_Integration-00F7FF?style=flat-square&labelColor=0d1117)
+![IoT System Design](https://img.shields.io/badge/IoT_System_Design-8A2BE2?style=flat-square&labelColor=0d1117)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshanth07&theme=tokyo-night&hide_border=true&area=true&area_color=00F7FF&line=00F7FF&point=ffffff&bg_color=060c18&color=4a8ab0&custom_title=Akshanth's+Contribution+Graph" width="96%"/>
+### Frontend & Frameworks
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=0d1117&labelColor=0d1117)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=0d1117)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=0d1117&labelColor=0d1117)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0d1117)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0d1117)
 
-</div>
+### Developer Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0d1117)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=0d1117)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=0d1117)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white&labelColor=0d1117)
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🌟 1. CuraTrack V3 — AI Healthcare & Telemedicine Ecosystem `FLAGSHIP`
 
-<div align="center">
+> An end-to-end AI health platform combining real-time telemedicine, predictive patient risk analysis, and hardware vital telemetry.
 
-### 🧠 AI Internship Readiness Score Engine
-
-AI-powered system that analyzes GitHub + resume to predict internship readiness
-👉 [View Project](https://github.com/Akshanth07/Ai-internship-readiness-score-engine)
-
----
-
-### 🍔 Food Court Management System
-
-Real-time full-stack system with ordering, admin analytics & vendor flow
-👉 [View Project](https://github.com/Akshanth07/food-court-management)
-
----
-
-### 🌐 Portfolio Website
-
-Personal portfolio showcasing projects and skills
-👉 [View Project](https://github.com/Akshanth07/portfolio)
-
-</div>
-
-
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Akshanth07/Akshanth07/output/snake.svg" alt="contribution snake animation" />
-</div>
-
----
-
-## 💻 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-## ⚡ System Terminal
-
-```bash
-akshanth@dev:~$ uptime
-  Coding streak    → still going 🔥
-  Coffee consumed  → classified ☕
-  Bugs squashed    → too many to count 🐛
-  Projects shipped → increasing daily 🚀
-
-akshanth@dev:~$ cat goals.txt
-  [x] Learn Python deeply
-  [x] Build full-stack web apps
-  [ ] Deploy AI APIs to production
-  [ ] Crack DSA + System Design
-  [ ] Contribute to major open source projects
-  [ ] Land AI Engineer role 🎯
-
-akshanth@dev:~$ echo $MINDSET
-  "Build what others only imagine."
-
-akshanth@dev:~$ █
+```
+Web / Mobile Clients ──> FastAPI Backend ──> Supabase PostgreSQL (RLS) ──> AI / OCR / External APIs
 ```
 
+- **Core Technologies**: Next.js, React Native / Expo, FastAPI, Supabase PostgreSQL (RLS), WebRTC, Gemini, Llama/Ollama, Tesseract OCR, openFDA API, Google Fit.
+- **Key Features**:
+  - **Telemedicine Suite**: Peer-to-peer WebRTC video consultations with live clinical note generation.
+  - **Emergency QR Patient Passport**: instant critical medical record access during triage.
+  - **Predictive Risk & SDOH Engine**: Machine learning assessment of health risks and Social Determinants of Health.
+  - **Safety & Verification**: Automated drug interaction analysis via openFDA API and prescription OCR parsing via Tesseract.
+- 🔗 [Explore Repository](https://github.com/Akshanth07/cura-track-v2)
+
 ---
 
-## 🌐 Connect With Me
+### 💳 2. Financial OS — Backend & Financial Intelligence Platform
+
+> Secure personal finance platform with multi-currency tracking, portfolio analytics, and automated advisory guidance.
+
+- **Core Technologies**: Express, TypeScript, Prisma, PostgreSQL, JWT, Rate Limiting, AI Assistant.
+- **Key Features**:
+  - Net worth calculation engine, asset holding distribution, and life-event financial planning.
+  - Production-grade authentication with rotating refresh tokens, hashed credentials, and strict API rate limiting.
+  - Relational database schema engineered with Prisma ORM and PostgreSQL.
+- 🔗 [Explore Repository](https://github.com/Akshanth07/financial-os)
+
+---
+
+### 📊 3. FinBud — AI-Powered Personal Finance Application
+
+> Modern reactive budget and expense manager with visual telemetry and intelligent expenditure tracking.
+
+- **Core Technologies**: Next.js, React, Supabase, React Query, Axios, Zod, React Hook Form, Recharts.
+- **Key Features**:
+  - Schema-validated financial entry forms built with React Hook Form & Zod.
+  - Real-time data caching and asynchronous state updates with React Query.
+  - Interactive financial breakdown charts and budget trajectory visualizers powered by Recharts.
+- 🔗 [Explore Repository](https://github.com/Akshanth07/fin-bud)
+
+---
+
+### 🎯 4. AI Internship Readiness Score Engine
+
+> Intelligent evaluation engine analyzing developer profiles and resumes to generate career readiness metrics.
+
+- **Core Technologies**: Python, Streamlit, GitHub API, Resume Parsing NLP.
+- **Key Features**:
+  - GitHub repository parsing and keyword extraction to quantify project complexity.
+  - Automated generation of candidate readiness scores paired with customized skill improvement roadmaps.
+- 🔗 [Explore Repository](https://github.com/Akshanth07/Ai-internship-readiness-score-engine)
+
+---
+
+### 🛡️ 5. SafetySense AI — Hardware + ML Anomaly Detection
+
+> IoT-integrated environmental safety system capturing sensor telemetry for real-time hazard detection.
+
+- **Core Technologies**: Arduino / ESP8266, Sensor Telemetry, Scikit-learn (Random Forest), FastAPI, Streamlit.
+- **Key Features**:
+  - Live sensor data ingestion pipeline connected to ML anomaly detection models.
+  - Machine learning classification using Random Forest to detect critical safety threats and trigger alerts.
+
+---
+
+### 🍽️ 6. Food Court Management System
+
+> DBMS and multi-vendor operational system designed for food court ordering and administration.
+
+- **Core Technologies**: Flask, MySQL, Streamlit.
+- **Key Features**:
+  - Customer ordering interface, active cart management, and vendor token fulfillment tracking.
+  - Admin analytics panel for sales reporting, order volume metrics, and inventory tracking.
+- 🔗 [Explore Repository](https://github.com/Akshanth07/food-court-management)
+
+---
+
+### ☕ 7. Spring Boot Backend Suite
+
+> Enterprise Java REST APIs built to master backend architecture, entity relationships, and microservice patterns.
+
+- **Core Technologies**: Java, Spring Boot, REST APIs, PostgreSQL / H2, DTO Pattern, Validation & Exception Handling.
+- **Projects**:
+  - **E-Commerce Backend**: Role-based access control, product catalog management, reseller rating engines, and order processing.
+  - **Student Management & Library REST APIs**: Standardized CRUD APIs with structured DTO mapping and global error handling.
+- 🔗 [Explore E-Commerce Backend](https://github.com/Akshanth07/ecommerce-springboot)
+
+---
+
+## 💼 Experience
+
+### **Backend Development Intern** — *Saint-Gobain*
+
+- Developed and maintained RESTful microservices utilizing **Java** and **Spring Boot**.
+- Participated in relational database schema design, query optimization, and data persistence with **PostgreSQL**.
+- Performed end-to-end API testing, endpoint validation, and request inspection using **Postman**.
+- Maintained version control workflows, feature branching, and code reviews through **Git**.
+
+---
+
+## 🎯 Currently Focus & Learning
+
+- ⚡ **Scalable Systems**: Mastering advanced microservices, caching strategies, and system design patterns.
+- ☕ **Spring Boot Ecosystem**: Deepening enterprise Java patterns, Spring Security, and query optimization.
+- 🔌 **Edge AI & IoT**: Integrating lightweight ML models directly with microcontrollers and IoT telemetry pipelines.
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-Akshanth2007%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=00F7FF&labelColor=060c18)](mailto:Akshanth2007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Akshanth07-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=060c18)](https://github.com/Akshanth07)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshanth07&theme=tokyo-night&hide_border=true&area=true&area_color=00F7FF&line=00F7FF&point=ffffff&bg_color=0d1117&color=00F7FF&custom_title=Contribution+Activity" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Akshanth07&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00F7FF&hide_border=false&title_color=00F7FF&icon_color=00F7FF&text_color=c0caf5" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshanth07&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00F7FF&hide_border=false&title_color=00F7FF&text_color=c0caf5" width="48%"/>
 
 </div>
 
 ---
 
+## 📫 Connect With Me
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=14&duration=4000&pause=1200&color=00F7FF&center=true&vCenter=true&width=650&lines=%22Code+the+future+before+it+arrives.%22;%22Build+what+others+only+imagine.%22;%22Stay+hungry+for+knowledge+%E2%9A%A1%22;%22Every+commit+is+a+step+forward.+%F0%9F%9A%80%22"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=90&section=footer" width="100%"/>
+[![Gmail](https://img.shields.io/badge/Email-Akshanth2007%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=0d1117&labelColor=0d1117)](mailto:Akshanth2007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Akshanth07-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Akshanth07)
 
 </div>
