@@ -2,19 +2,19 @@
 
 # AKSHANTH N
 
-**AI/ML • Backend Engineering • IoT**
+### **AI/ML • Backend Engineering • IoT**
 
 *Building intelligent systems that connect software with the real world.*
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI%2FML+%E2%86%92+Backend+%E2%86%92+Databases+%E2%86%92+IoT+%E2%86%92+Full-Stack;Engineering+scalable+APIs+%26+real-world+intelligence;Connecting+predictive+models+with+physical+systems)](https://github.com/Akshanth07)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI%2FML+%E2%86%92+Backend+%E2%86%92+Databases+%E2%86%92+IoT+%E2%86%92+Full-Stack;Engineering+scalable+APIs+%26+real-world+intelligence;Connecting+predictive+models+with+physical+systems)](https://github.com/Akshanth07)
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Akshanth07-21262d?style=flat-square&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/Akshanth07)
-[![Email](https://img.shields.io/badge/Email-Akshanth2007%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=c9d1d9&labelColor=161b22)](mailto:Akshanth2007@gmail.com)
-[![Focus](https://img.shields.io/badge/Focus-Intelligent_Systems-21262d?style=flat-square&logoColor=58a6ff&labelColor=161b22)](https://github.com/Akshanth07)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshanth07)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Akshanth2007@gmail.com)
+[![Focus](https://img.shields.io/badge/Focus-Intelligent_Systems-0EA5E9?style=for-the-badge&logo=cpu&logoColor=white)](https://github.com/Akshanth07)
 
 </div>
 
@@ -25,7 +25,7 @@
 - 🧠 **AI & System Architecture**: Specializing in engineering end-to-end intelligent systems that connect predictive models with robust backend APIs and real-world hardware.
 - ⚙️ **Backend & Databases**: Proficient in designing RESTful services, database schemas, and microservice pipelines using **Python**, **Java / Spring Boot**, **FastAPI**, and **PostgreSQL**.
 - 🔌 **IoT & Hardware Telemetry**: Experienced in capturing live sensor data via microcontrollers to drive edge intelligence and automated monitoring.
-- 🎯 **Engineering Goal**: Building complete, scalable software architectures over single-layered models or basic frontends.
+- 🎯 **Engineering Goal**: Building complete, scalable software architectures over single-layered models or isolated frontends.
 
 ---
 
@@ -52,7 +52,8 @@
   </a>
 </p>
 
-**Python • PyTorch • TensorFlow • OpenCV • YOLO • OpenVINO • Scikit-Learn • LLM Integration • OCR**
+`Python` • `PyTorch` • `TensorFlow` • `OpenCV` • `YOLO` • `OpenVINO` • `Scikit-Learn` • `LLM Integration` • `OCR`
+
 > *Developing computer vision pipelines, anomaly detection algorithms, and LLM-driven automation tools.*
 
 ---
@@ -64,7 +65,8 @@
   </a>
 </p>
 
-**FastAPI • Spring Boot • REST APIs • PostgreSQL • MySQL • Supabase • H2**
+`FastAPI` • `Spring Boot` • `REST APIs` • `PostgreSQL` • `MySQL` • `Supabase` • `H2`
+
 > *Architecting high-performance REST APIs, relational schemas, rate limiters, and microservice workflows.*
 
 ---
@@ -76,7 +78,8 @@
   </a>
 </p>
 
-**Arduino Uno • ESP8266 / ESP-01 • Sensor Integration • IoT Communication • Telemetry Design**
+`Arduino Uno` • `ESP8266 / ESP-01` • `Sensor Integration` • `IoT Communication` • `Telemetry Design`
+
 > *Interfacing physical hardware sensors with cloud and edge backends for real-time monitoring.*
 
 ---
@@ -88,7 +91,8 @@
   </a>
 </p>
 
-**Python • Java • C++ • SQL**
+`Python` • `Java` • `C++` • `SQL`
+
 > *Writing clean, object-oriented, and memory-efficient code across backend and hardware systems.*
 
 ---
@@ -100,110 +104,92 @@
   </a>
 </p>
 
-**React • Next.js • JavaScript • HTML5 • CSS3 • Docker • Git • Postman • VS Code • IntelliJ IDEA**
+`React` • `Next.js` • `JavaScript` • `HTML5` • `CSS3` • `Docker` • `Git` • `Postman` • `VS Code` • `IntelliJ IDEA`
+
 > *Building dynamic interfaces and utilizing modern containerization and version control tooling.*
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌟 1. CuraTrack V3 — AI Healthcare & Telemedicine Ecosystem `FLAGSHIP`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌟 CuraTrack V3 <img src="https://img.shields.io/badge/FLAGSHIP-0EA5E9?style=flat-square" /></h3>
+      <p><b>AI Healthcare & Telemedicine Ecosystem</b></p>
+      <p>Comprehensive AI-powered healthcare ecosystem featuring peer-to-peer WebRTC video consultations, Emergency QR Patient Passport, vital telemetry, SDOH health risk scoring, openFDA drug safety verification, and prescription OCR.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,fastapi,postgres,supabase,ts" height="26" />
+      </p>
+      <a href="https://github.com/Akshanth07/cura-track-v2"><b>View Repository »</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💳 Financial OS</h3>
+      <p><b>Backend & Financial Intelligence Platform</b></p>
+      <p>Enterprise-grade personal finance engine with net worth tracking, portfolio guidance, Prisma PostgreSQL database design, rotating refresh tokens, rate limiting middleware, and AI advisory chat integration.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=express,ts,postgres,prisma" height="26" />
+      </p>
+      <a href="https://github.com/Akshanth07/financial-os"><b>View Repository »</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 FinBud</h3>
+      <p><b>AI-Powered Personal Finance Tracker</b></p>
+      <p>Reactive budget management and expense analytics web application with schema validation via Zod, asynchronous state caching with React Query, and interactive analytics charts using Recharts.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nextjs,react,supabase,js" height="26" />
+      </p>
+      <a href="https://github.com/Akshanth07/fin-bud"><b>View Repository »</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 AI Internship Readiness Scorer</h3>
+      <p><b>Developer Portfolio & Resume Evaluator</b></p>
+      <p>Evaluation engine analyzing developer GitHub activity, repository depth, and resume keywords using NLP to generate candidate readiness scores and personalized skill improvement roadmaps.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,html,css" height="26" />
+      </p>
+      <a href="https://github.com/Akshanth07/Ai-internship-readiness-score-engine"><b>View Repository »</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ SafetySense AI</h3>
+      <p><b>IoT + ML Environmental Safety System</b></p>
+      <p>Hardware-integrated safety monitoring system capturing multi-sensor telemetry from microcontrollers and evaluating environmental safety using Random Forest machine learning models.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=arduino,cpp,python,fastapi" height="26" />
+      </p>
+      <span><i>Hardware IoT Project</i></span>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍽️ Food Court Management System</h3>
+      <p><b>Multi-Tenant DBMS & Order Portal</b></p>
+      <p>Real-time full-stack ordering and administration platform featuring customer ordering carts, live vendor token fulfillment, and administrator sales reporting analytics.</p>
+      <p>
+        <img src="https://skillicons.dev/icons?i=py,mysql,html" height="26" />
+      </p>
+      <a href="https://github.com/Akshanth07/food-court-management"><b>View Repository »</b></a>
+    </td>
+  </tr>
+</table>
 
-> An end-to-end AI healthcare ecosystem combining real-time telemedicine, predictive risk scoring, and hardware vital telemetry.
-
-```
-Web / Mobile Clients ──> FastAPI Backend ──> Supabase PostgreSQL (RLS) ──> AI / OCR / External APIs
-```
-
-- **Core Technologies**: Next.js, React Native / Expo, FastAPI, Supabase PostgreSQL (RLS), WebRTC, Gemini, Llama/Ollama, Tesseract OCR, openFDA API, Google Fit.
-- **Key Features**:
-  - **Telemedicine Suite**: Peer-to-peer WebRTC video consultations with live clinical summary generation.
-  - **Emergency QR Patient Passport**: Instant critical health data access for emergency responder triage.
-  - **Predictive Risk & SDOH Analysis**: ML models analyzing health risk parameters and Social Determinants of Health.
-  - **Safety & Verification**: Automated drug interaction verification (openFDA API) and prescription OCR parsing (Tesseract).
-- 🔗 [Explore CuraTrack Repository](https://github.com/Akshanth07/cura-track-v2)
-
----
-
-### 💳 2. Financial OS — Backend & Financial Intelligence Engine
-
-> Enterprise-ready personal finance platform with multi-currency tracking, portfolio analytics, and automated advisory guidance.
-
-- **Core Technologies**: Express, TypeScript, Prisma, PostgreSQL, JWT (Rotating Refresh Tokens), Rate Limiting, AI Assistant.
-- **Key Features**:
-  - Net worth calculation engine, asset holding distribution, and life-event financial guidance.
-  - Multi-tier authentication pipeline with rotating refresh tokens, password hashing, and endpoint rate limiting.
-  - Relational database architecture designed using Prisma ORM and PostgreSQL.
-- 🔗 [Explore Financial OS Repository](https://github.com/Akshanth07/financial-os)
-
----
-
-### 📊 3. FinBud — AI-Powered Personal Finance Tracker
-
-> Reactive budget management and expense analytics application engineered for interactive data visualization.
-
-- **Core Technologies**: Next.js, React, Supabase, React Query, Axios, Zod, React Hook Form, Recharts.
-- **Key Features**:
-  - Strict schema-validated financial input workflows powered by React Hook Form & Zod.
-  - Asynchronous client-side state management and data caching via React Query.
-  - Interactive expense telemetry dashboards visualized with Recharts.
-- 🔗 [Explore FinBud Repository](https://github.com/Akshanth07/fin-bud)
-
----
-
-### 🎯 4. AI Internship Readiness Score Engine
-
-> Evaluation platform analyzing developer portfolios and resume keywords to predict internship readiness.
-
-- **Core Technologies**: Python, Streamlit, GitHub API, Resume Parsing NLP.
-- **Key Features**:
-  - GitHub repository parsing and keyword extraction to evaluate project execution depth.
-  - Automated candidate scoring paired with a customized skill improvement roadmap.
-- 🔗 [Explore Readiness Engine Repository](https://github.com/Akshanth07/Ai-internship-readiness-score-engine)
-
----
-
-### 🛡️ 5. SafetySense AI — IoT + ML Environmental Safety System
-
-> Hardware-integrated safety monitoring system analyzing multi-sensor telemetry for hazard detection.
-
-- **Core Technologies**: Arduino / ESP8266, Sensor Telemetry, Scikit-learn (Random Forest), FastAPI, Streamlit.
-- **Key Features**:
-  - Multi-sensor IoT telemetry collection pipeline built for continuous environment monitoring.
-  - Machine learning classification using Random Forest models to detect hazards and trigger real-time alerts.
-
----
-
-### 🍽️ 6. Food Court Management System
-
-> Multi-tenant DBMS web application handling customer ordering, vendor fulfillment, and administrator analytics.
-
-- **Core Technologies**: Flask, MySQL, Streamlit.
-- **Key Features**:
-  - Real-time customer cart ordering, vendor token tracking, and order fulfillment workflows.
-  - Administrator analytics dashboard tracking sales volume, revenue metrics, and vendor performance.
-- 🔗 [Explore Food Court Repository](https://github.com/Akshanth07/food-court-management)
-
----
-
-### ☕ 7. Spring Boot Backend Suite
-
-> Enterprise RESTful microservices demonstrating Java architecture, DTO patterns, and database persistence.
-
-- **Core Technologies**: Java, Spring Boot, REST APIs, PostgreSQL / H2, DTO Pattern, Validation & Exception Handling.
-- **Repositories & Modules**:
-  - **E-Commerce Backend**: Role management, product catalog, reseller rating engine, and order lifecycle.
-  - **Student Management & Library APIs**: Modular CRUD REST APIs with structured DTO mapping and global error handling.
-- 🔗 [Explore Spring Boot E-Commerce Repository](https://github.com/Akshanth07/ecommerce-springboot)
+### ☕ Spring Boot Backend Suite
+> **Enterprise Java REST APIs** — Modular microservices featuring E-Commerce backend systems (role management, product catalog, reseller ratings, order lifecycle), Student Management CRUD, and Library REST services built with Spring Boot, PostgreSQL, and DTO validation patterns.
+> 
+> 🔗 [Explore Spring Boot E-Commerce Repository](https://github.com/Akshanth07/ecommerce-springboot)
 
 ---
 
 ## 💼 Professional Experience
 
-### **Backend Development Intern** — *Saint-Gobain*
+```
+🏢 Saint-Gobain  |  Backend Development Intern
+```
 
 - Designed and maintained RESTful services and APIs using **Java** and **Spring Boot**.
-- Participated in relational database schema design, query structure, and data management in **PostgreSQL**.
+- Participated in relational database schema design, query structure, and data persistence in **PostgreSQL**.
 - Performed end-to-end API testing, validation, and request debugging using **Postman**.
 - Managed version control workflows, branch integration, and code commits using **Git**.
 
@@ -217,16 +203,16 @@ Web / Mobile Clients ──> FastAPI Backend ──> Supabase PostgreSQL (RLS) �
 
 ---
 
-## 📊 GitHub Statistics & Activity
+## 📊 GitHub Activity & Statistics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshanth07&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&custom_title=Contribution+Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshanth07&theme=tokyo-night&hide_border=true&area=true&area_color=38BDF8&line=38BDF8&point=ffffff&bg_color=0d1117&color=38BDF8&custom_title=Contribution+Activity" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akshanth07&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&hide_border=false&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshanth07&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&hide_border=false&title_color=58a6ff&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Akshanth07&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1e293b&hide_border=false&title_color=38BDF8&icon_color=38BDF8&text_color=c0caf5" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshanth07&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1e293b&hide_border=false&title_color=38BDF8&text_color=c0caf5" width="48%"/>
 
 </div>
 
@@ -236,7 +222,7 @@ Web / Mobile Clients ──> FastAPI Backend ──> Supabase PostgreSQL (RLS) �
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email-Akshanth2007%40gmail.com-21262d?style=flat-square&logo=gmail&logoColor=c9d1d9&labelColor=161b22)](mailto:Akshanth2007@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Akshanth07-21262d?style=flat-square&logo=github&logoColor=c9d1d9&labelColor=161b22)](https://github.com/Akshanth07)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Akshanth2007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Akshanth07)
 
 </div>
