@@ -217,21 +217,6 @@ Web / Mobile Clients ──> FastAPI Backend ──> Supabase PostgreSQL (RLS) �
 
 ---
 
-## 📊 GitHub Statistics & Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshanth07&theme=github-dark&hide_border=true&area=true&bg_color=0d1117&color=58a6ff&custom_title=Contribution+Graph" width="95%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Akshanth07&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&hide_border=false&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshanth07&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&hide_border=false&title_color=58a6ff&text_color=c9d1d9" width="48%"/>
-
-</div>
-
----
-
 Leetcode profile
 
 <a href="https://leetcode.com/ezAzgATEuO" target="_blank">
