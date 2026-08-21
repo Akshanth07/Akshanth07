@@ -231,6 +231,7 @@ Web / Mobile Clients ──> FastAPI Backend ──> Supabase PostgreSQL (RLS) �
 </div>
 
 ---
+
 Leetcode profile
 
 <a href="https://leetcode.com/ezAzgATEuO" target="_blank">
@@ -242,6 +243,7 @@ Leetcode profile
 <a href="https://leetcode.com/ezAzgATEuO" target="_blank">
   <img src="https://leetcode-calander-svg.vercel.app/ezAzgATEuO/problems" width="380" alt="LeetCode Solved Problems"/>
 </a> 
+
 --- 
 
 ## 📫 Connect With Me
