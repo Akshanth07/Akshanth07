@@ -231,6 +231,8 @@ Web / Mobile Clients ──> FastAPI Backend ──> Supabase PostgreSQL (RLS) �
 </div>
 
 ---
+Leetcode profile
+
 <a href="https://leetcode.com/ezAzgATEuO" target="_blank">
   <img src="https://leetcode-calander-svg.vercel.app/ezAzgATEuO" width="694" alt="LeetCode Heatmap Grid"/>
 </a>
